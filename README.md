@@ -28,7 +28,8 @@ This project focuses on detecting fraudulent transactions using **machine learni
 ## **Dataset**
 - The dataset comes from **Kaggle** but has been preprocessed for training.  
 - It consists of **anonymized features**, with two known attributes: **transaction time** and **amount**.  
-- The dataset has an **extremely low percentage of fraud cases (<1%)**, making handling class imbalance a critical task.  
+- The dataset has an **extremely low percentage of fraud cases (<1%)**, making handling class imbalance a critical task.
+- Download data from [here](https://drive.google.com/drive/folders/13ZD3GWTiAi7J-VTBvJdHkVF8uo_kc7li?usp=drive_link)  
 
 ## **Project Goals**
 - **Build models** for fraud detection.  
