@@ -1,0 +1,11 @@
+
+2025-02-02 01:49:24,174 - INFO - Model Type: xgboost
+2025-02-02 01:49:24,197 - INFO - Best Threshold: 0.42
+2025-02-02 01:49:24,197 - INFO - Default Threshold Metrics: F1-Score = 0.8902439024390244, PR-AUC = 0.8394161590121269
+2025-02-02 01:49:24,197 - INFO - Optimized Threshold Metrics: F1-Score = 0.896969696969697, PR-AUC = 0.8394161590121269
+2025-02-02 01:49:24,197 - INFO - Default Threshold Macro Avg: {'precision': 0.993093821592925, 'recall': 0.9055467635738429, 'f1-score': 0.9450428345135802, 'support': 56960.0}
+2025-02-02 01:49:24,197 - INFO - Default Threshold Precision for Positive Class: 0.9864864864864865
+2025-02-02 01:49:24,197 - INFO - Default Threshold Recall for Positive Class: 0.8111111111111111
+2025-02-02 01:49:24,197 - INFO - Optimized Threshold Macro Avg: {'precision': 0.9931926987196391, 'recall': 0.9111023191293984, 'f1-score': 0.9484101264946063, 'support': 56960.0}
+2025-02-02 01:49:24,197 - INFO - Optimized Threshold Precision for Positive Class: 0.9866666666666667
+2025-02-02 01:49:24,197 - INFO - Optimized Threshold Recall for Positive Class: 0.8222222222222222

@@ -1,0 +1,14 @@
+2025-02-01 16:39:26,021 - INFO - Model Type: logistic
+2025-02-01 16:39:26,029 - INFO - Best Threshold: 0.62
+2025-02-01 16:39:26,029 - INFO - Default Threshold Metrics: F1-Score = 0.8235294117647058, PR-AUC = 0.7461104947722926
+2025-02-01 16:39:26,029 - INFO - Optimized Threshold Metrics: F1-Score = 0.8263473053892215, PR-AUC = 0.7461104947722926
+2025-02-01 17:11:55,150 - INFO - Model Type: logistic
+2025-02-01 17:11:55,150 - INFO - Best Threshold: 0.62
+2025-02-01 17:11:55,150 - INFO - Default Threshold Metrics: F1-Score = 0.8235294117647058, PR-AUC = 0.7461104947722926
+2025-02-01 17:11:55,150 - INFO - Optimized Threshold Metrics: F1-Score = 0.8263473053892215, PR-AUC = 0.7461104947722926
+2025-02-01 17:11:55,151 - INFO - Default Threshold Macro Avg: {'precision': 0.9373241912798875, 'recall': 0.8888009690717621, 'f1-score': 0.9116328377504848, 'support': 56960.0}
+2025-02-01 17:11:55,151 - INFO - Default Threshold Precision for Positive Class: 0.875
+2025-02-01 17:11:55,151 - INFO - Default Threshold Recall for Positive Class: 0.7777777777777778
+2025-02-01 17:11:55,151 - INFO - Optimized Threshold Macro Avg: {'precision': 0.9478673586315588, 'recall': 0.883262997479632, 'f1-score': 0.9130461835289624, 'support': 56960.0}
+2025-02-01 17:11:55,151 - INFO - Optimized Threshold Precision for Positive Class: 0.8961038961038961
+2025-02-01 17:11:55,151 - INFO - Optimized Threshold Recall for Positive Class: 0.7666666666666667

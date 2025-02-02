@@ -1,0 +1,4 @@
+2025-02-01 16:59:07,154 - INFO - Model Type: random_forest
+2025-02-01 16:59:07,154 - INFO - Best Threshold: 0.31
+2025-02-01 16:59:07,154 - INFO - Default Threshold Metrics: F1-Score = 0.8606060606060606, PR-AUC = 0.8595860372777464
+2025-02-01 16:59:07,154 - INFO - Optimized Threshold Metrics: F1-Score = 0.8735632183908046, PR-AUC = 0.8595860372777464
