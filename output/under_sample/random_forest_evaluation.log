@@ -1,0 +1,10 @@
+2025-02-02 03:17:17,105 - INFO - Model Type: random_forest
+2025-02-02 03:17:17,105 - INFO - Best Threshold: 0.9500000000000001
+2025-02-02 03:17:17,105 - INFO - Default Threshold Metrics: F1-Score = 0.11015262110152621, PR-AUC = 0.7669610592788211
+2025-02-02 03:17:17,105 - INFO - Optimized Threshold Metrics: F1-Score = 0.8117647058823529, PR-AUC = 0.7669610592788211
+2025-02-02 03:17:17,105 - INFO - Default Threshold Macro Avg: {'precision': 0.5292242122937144, 'recall': 0.9493826075063987, 'f1-score': 0.549111697916993, 'support': 56960.0}
+2025-02-02 03:17:17,106 - INFO - Default Threshold Precision for Positive Class: 0.05857445306986592
+2025-02-02 03:17:17,106 - INFO - Default Threshold Recall for Positive Class: 0.9222222222222223
+2025-02-02 03:17:17,106 - INFO - Optimized Threshold Macro Avg: {'precision': 0.9310654008438819, 'recall': 0.8832366215344939, 'f1-score': 0.9057416936005172, 'support': 56960.0}
+2025-02-02 03:17:17,106 - INFO - Optimized Threshold Precision for Positive Class: 0.8625
+2025-02-02 03:17:17,106 - INFO - Optimized Threshold Recall for Positive Class: 0.7666666666666667
