@@ -1,0 +1,10 @@
+2025-02-02 03:44:29,600 - INFO - Model Type: voting
+2025-02-02 03:44:29,600 - INFO - Best Threshold: 0.59
+2025-02-02 03:44:29,600 - INFO - Default Threshold Metrics: F1-Score = 0.8268156424581006, PR-AUC = 0.8450004146665819
+2025-02-02 03:44:29,600 - INFO - Optimized Threshold Metrics: F1-Score = 0.8372093023255814, PR-AUC = 0.8450004146665819
+2025-02-02 03:44:29,600 - INFO - Default Threshold Macro Avg: {'precision': 0.9155896678447715, 'recall': 0.9109792313854209, 'f1-score': 0.9132715467106268, 'support': 56960.0}
+2025-02-02 03:44:29,600 - INFO - Default Threshold Precision for Positive Class: 0.8314606741573034
+2025-02-02 03:44:29,600 - INFO - Default Threshold Recall for Positive Class: 0.8222222222222222
+2025-02-02 03:44:29,615 - INFO - Optimized Threshold Macro Avg: {'precision': 0.9388661568320384, 'recall': 0.8999120801828733, 'f1-score': 0.9184815720756858, 'support': 56960.0}
+2025-02-02 03:44:29,615 - INFO - Optimized Threshold Precision for Positive Class: 0.8780487804878049
+2025-02-02 03:44:29,615 - INFO - Optimized Threshold Recall for Positive Class: 0.8
